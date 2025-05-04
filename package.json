@@ -1,0 +1,8 @@
+{
+  "name": "harsh-servicenow-api",
+  "version": "1.0.0",
+  "main": "api/contact.js",
+  "scripts": {
+    "start": "node api/contact.js"
+  }
+}
